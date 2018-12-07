@@ -22,6 +22,10 @@
     "regenerator-runtime": "^0.13.1"
   },
   "jest": {
-    "preset": "react-native"
+    "preset": "react-native",
+    "transformIgnorePatterns": [
+      "node_modules/(?!(react-native|react-native-gesture-handler|@react-navigation|react-native-gesture-handler|react-native-safe-area-view)/)"
+    ]
+
   }
 }

@@ -4708,11 +4708,6 @@ react-native-gesture-handler@^1.0.0:
     invariant "^2.2.2"
     prop-types "^15.5.10"
 
-react-native-jest-mocks@^1.4.0:
-  version "1.4.0"
-  resolved "https://registry.yarnpkg.com/react-native-jest-mocks/-/react-native-jest-mocks-1.4.0.tgz#8380992bd4c1a533193d96f42dbf2e89bcfea617"
-  integrity sha512-IjV2AKROrwx32jd4nLXsuUWt8qFA5vZX+RoLuL6tMS04Q62Ax6fsVb+vE57SIx3C9aM9ongvz1gPNj6HbwwDkw==
-
 react-native-safe-area-view@^0.11.0:
   version "0.11.0"
   resolved "https://registry.yarnpkg.com/react-native-safe-area-view/-/react-native-safe-area-view-0.11.0.tgz#4f3dda43c2bace37965e7c6aef5fc83d4f19d174"
